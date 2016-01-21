@@ -1,6 +1,5 @@
 # target programming lamguage
 language: java
-install: ant deps
 
 # JDK versios support
 jdk:
